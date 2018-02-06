@@ -7,6 +7,10 @@
   // Add colored error feedback in file explorer
   "problems.decorations.enabled": true,
 
+  // Privacy options
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+
   // Gitlens extension specific settings
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
